@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/273776ee-3a75-4902-add3-6bfbd2e8ac03)
+
 ## CS 465 Project Software Design Document
 ## Version 1.0
  
@@ -81,5 +83,5 @@ In addition, even when developing simple application this offers more scalabilit
 End-to-end testing is where developers/engineers test the application to its entirety. Essentially, they will use the application as if they are the users to ensure everything works as intended. Testing the API calls for verifying status codes when any issues are to arise. Just to name a few error codes, they are 504- gateway timeout, 500-internal server error, 503-service unavailable, and 400-bad request. 
 
 These are all ways to determine where the errors might be so developers can snuff out the issues. The life server of express allows developers to view the CLI for any action that is taken upon the user. For example, they can see what page and specifically which page element holds issues. Depending on the elements, they are routed to the back end with intended functionality to send and receive PUT and GET to and from the database. All in all, everything comes together to create a dynamically styled multi-layered online application with high level functionality and complexity; With the ability to communicate to the database for storage and retrieval. 
-![image](https://github.com/user-attachments/assets/273776ee-3a75-4902-add3-6bfbd2e8ac03)
+
 
