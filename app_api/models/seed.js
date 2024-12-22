@@ -4,8 +4,7 @@ const Mongoose = require ('./db');
 const Trip = require ('./travlr');
 
 //Read the data of the seed json file
-var fs = require ('fs');
-var trip = JSON.parse(fs.readFileSync('./data/trips.json', 'utf-8'))
+
 
 //delete any of the existing records, then insert the seed data
 const seedDB = async () =>{
