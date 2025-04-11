@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/273776ee-3a75-4902-add3-6bfbd2e8ac03)
+![image](https://github.com/user-attachments/assets/273776ee-3a75-4902-add3-6bfbd2e8ac03) 
+## Version 1.0
 
 ![Screenshot 2025-04-11 at 1 39 16 PM](https://github.com/user-attachments/assets/60c15206-6722-47a2-9a75-372545e2d6a9)
 
@@ -13,12 +14,6 @@
 ![Screenshot 2025-04-11 at 1 39 43 PM](https://github.com/user-attachments/assets/f29e135c-8b2b-4214-a504-7b6f91b37f52)
 
 ![Screenshot 2025-04-11 at 1 39 47 PM](https://github.com/user-attachments/assets/ca0608e5-11fd-42e5-8be2-ae284d181640)
-
-
-
-## CS 465 Project Software Design Document
-## Version 1.0
- 
 
 
 ## Document Revision History
